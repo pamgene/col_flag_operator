@@ -2,7 +2,7 @@
 
 ##### Description
 
-The `col flag operator` is an operator that can flag columns in a Tercen view. The flagged value for these columns will be "true". It can be used if a user wants to select only certain columns from the total dataset. In that case, a filter for this operator view needs to be defined such that only these columns are shown in the view.
+The `col flag operator` is an operator that can flag columns in a Tercen view.  The flagged value for these columns will be "true". It can be used if a user wants to select only certain columns from the total dataset. In that case, a filter for this operator view needs to be defined such that only these columns are shown in the view.
 
 ##### Usage
 
